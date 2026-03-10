@@ -1,0 +1,8 @@
+venv/
+audio_for_asr/
+transcript.txt
+__pycache__/
+*.pyc
+.DS_Store
+*.session
+.env
